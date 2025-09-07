@@ -3,10 +3,10 @@
 # Kata kata hari ini
 `We wok de tok not onle tok de tok`
 
-[web api](dravinapi.vercel.app)
+   [dravin api](https://dravinapi.vercel.app)
 ![gatau apa](https://dravinapi.vercel.app/src/icon.png)
 
 - AI
-   - [Chat GPT](chatgpt.com)
-   - [Deepseek](deepseek.com)
-   - [Gemini](gemini.google.com)
+   - [Chat GPT](https://chatgpt.com)
+   - [Deepseek](https://deepseek.com)
+   - [Gemini](https://gemini.google.com)
